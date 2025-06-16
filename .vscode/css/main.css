@@ -1,0 +1,306 @@
+h1{ 
+font-family:"fraunces";
+font-size: 350%;
+font-weight: 100;
+width: 100%;
+}
+
+.task{  
+    
+    max-width: 1140px;
+    justify-content: space-between;
+    display: flex;
+}
+.h2{
+     padding-top: 10px;
+    font-size: 120%;
+    font-weight: 400;
+    color: #1F1F1F;
+}
+
+.box{
+    padding-top: 5%;
+    width: 520px;
+    
+}
+
+.note{
+    padding-top: 30px;
+}
+
+
+.center{
+    padding-top: 8%;
+    text-align: center;
+}
+
+.partners{   
+    height: 300%;
+    padding-top:1%;
+    text-align:center;
+}
+
+.text1{ 
+    font-family:"fraunces";
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 10%;
+    line-height: 200%;
+}
+
+.padding{   
+    padding-top:10%;
+}
+
+h3{ 
+    line-height: 23px;
+    font-family: "inter";
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.box1{
+    width: 350px;
+    height: 250px;
+}
+
+.yellow{    
+    background-color:#faea73 ;
+    padding-top: 2%;
+}
+
+.blue{  
+    background-color:#cceff6 ;
+    padding-top: 2%;
+}
+
+.pink{
+    background-color: #f7cedc;
+    padding-top: 2%;
+}
+
+.box2{
+    width: 330px;
+    padding-left: 10%;
+}
+
+
+.containermain{
+    padding-top: 4%;
+    width: 100%;
+    background-color: #F7F9FA;
+    margin-top: 7%;
+    height: 730px;
+}
+
+.maintext{
+    
+    font-size: 255%;
+    font-family: "fraunces";
+    width: 650px;
+}
+
+.boxmain{
+    width: 600px;
+}
+
+.mainlist{
+    width: 450px;
+}
+
+.h2main{
+    margin-left: 13px;
+    font-family: "fraunces";
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.mainborder{
+    border-bottom: #C2CDD8 solid 1px;
+    border-top: #C2CDD8 solid 1px;
+}
+
+.grey{
+    padding: 15px;
+    color: #626A72;
+}
+
+.height{
+    height: 60px;
+}
+
+.height1{
+    height: 300px;
+} 
+
+.d-flexlist{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.description{
+    font-weight: 350;
+    font-size: 16px;
+    margin-left: 10%;
+    width: 350px;
+    line-height: 24px;
+    padding-bottom: 5%;
+}
+
+.image{
+    padding-top: 10%;
+}
+
+.whattext{
+    text-align: top;
+     font-size: 270%;
+    font-family: "fraunces";
+    
+}
+
+.whatbox{
+     width: 225px;
+}
+
+.mainwhatbox{
+    height: 420px;
+    padding: 60px 30px 60px 30px;
+}
+
+.margin{
+    margin-left: 10%;
+}
+
+.containermain2 {
+     padding-top: 4%;
+    width: 100%;
+    margin-top: 7%;
+    background-color: #0070A0;
+    height: 580px;
+}
+
+.whattext2{
+    font-weight: 100;
+    text-align: top;
+     font-size: 270%;
+    font-family: "fraunces";
+    color: #FFFFFF;
+}
+
+.whatbox1{
+    width: 300px;
+}
+
+.whattext1{
+    font-family:"fraunces";
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 200%;
+}
+
+.margintop{
+    margin-top: 11%;
+}
+
+.phones{
+    background-color: #FFFFFF;
+    height: 249px;
+    width: 355px;
+    position: static;
+    padding-top:10px ;
+}
+
+.phonetext{
+    font-family:"fraunces";
+    font-size: 25px;
+    font-weight: 500;
+    padding-left: 6%;
+   
+}
+
+.bluephone{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+letter-spacing: 0.4px; 
+color: #2C90C9;
+margin: 0px 10px 10px 6%;
+width: 35%;
+height: 22px;
+background-color: #E6F7FF;
+padding-left: 6%;
+}
+
+.phonebox{
+    width: 314px;
+    margin-left: 6%;
+    margin-top: 3%;
+}
+
+.date{
+width: 100px;
+font-family: 'Inter';
+font-weight: 400;
+font-size: 12px;
+margin-top: 5%;
+letter-spacing: 0.2px;
+color: #1F1F1F;
+margin-left: 6%;
+
+}
+
+
+.bluephone1{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+letter-spacing: 0.4px; 
+color: #2C90C9;
+margin: 0px 10px 10px 6%;
+width: 20%;
+height: 22px;
+background-color: #E6F7FF;
+padding-left: 6%;
+}
+
+.endcontainer{ 
+background: #E6F7FF;
+width: 1130px;
+height: 340px;
+}
+
+.endbox{
+    width: 505px;
+    margin: 5% 0 0 5%;
+}
+
+.containerend{
+    height: 500px;
+    position: relative;
+    justify-content: space-between;
+    margin: 0 auto;
+     max-width: 1140px;
+     padding-top: 6%;
+}
+
+.marg{
+    margin-right: 8%;
+}
+
+.demobox{
+     height: 40px;
+    width: 165px;
+    line-height: 30px;
+    font-weight: 300;
+    font-size: 108%;
+    background-color: #0070A0;
+    color: white;
+    background-size: cover;
+    padding: 2% 0% 2% 10%;
+}

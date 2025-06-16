@@ -1,0 +1,130 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.inter-uniquifie {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+body{  
+    font-family: "inter";
+}
+
+.container-fluid{ 
+   width:100%
+}
+
+.container{ 
+    position: relative;
+    justify-content: space-between;
+    margin: 0 auto;
+     max-width: 1140px;
+     padding: 20px;
+}
+
+.describe{
+    justify-content: space-between;
+    padding: 5%;
+    width: 65%;
+}
+
+.d-flex{
+    display: flex;
+    align-items: center;
+} 
+
+.menu a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 93%;
+}
+
+.navi a{
+      color:#33383F ;
+}
+
+.signin {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.2px;
+
+color: #0070A0;
+
+
+}
+
+.demo{
+    padding: 10px;
+    line-height: 30px;
+    font-weight: 300;
+    font-size: 108%;
+    background-color: #0070A0;
+    color: white;
+    background-size: cover;
+    
+}
+
+.footbox1{  
+    width: 432px;
+    height: 216px;
+    text-align: left;
+    
+}
+
+.paddingtop{
+    padding-top: 6%;
+}
+
+.Footbox{
+    width: 216px;
+    height: 216px; ;
+    font-size: 90%;
+}
+
+.foottext{
+    line-height: 200%;
+    color: #626A72;
+    
+}
+
+.foottext2{
+    line-height: 160%;
+    width: 200px;
+    font-size: 115%;
+}
+
+.border{
+    
+    border-bottom: 1px solid #C2CDD8;
+}
+
+
+input {
+    text-align: center;
+    background: none;
+    border: none;
+    height: 42px;
+}
+
+.textfoot{
+    font-family: "inter";
+    font-size:  90%;
+    padding-top: 4%;
+}
+
+.footerend{
+    justify-content: space-between;
+}
+
+  
+
